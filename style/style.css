@@ -67,3 +67,30 @@ width: 150px;
     text-align: center;
     padding: 20px;
 }
+.box{
+    height: 230px;
+    width: 2800px;
+    box-shadow: 4px 4px 15px gray;
+    background-color: black;
+    text-align: center;
+    padding: 15px;
+    color: white;
+}
+.icon{
+    width: 70px;
+}
+.btn-box-btn{
+    background-color: gray;
+    margin-top: 10px;
+}
+.box-title{
+    padding: 10px;
+}
+.box-title -m{
+    padding: 5px;
+}
+.serves-contarnar{
+    display: flex;
+    justify-content:space-around;
+    padding: 20px;
+}
